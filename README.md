@@ -1,2 +1,2 @@
 # Java-examples 
-I share with you code practices I wrote in JAVA in my first year.<3
+I share with you code practices that I wrote in JAVA language in my first year.<3
