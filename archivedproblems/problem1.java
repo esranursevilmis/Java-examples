@@ -1,5 +1,5 @@
 package archivedproblems;
-//1000 'IN ALTINDAKÝ 3 VEYA 5 ÝN TÜM KATLARININ TOPLAMINI BULUN.
+//1000 'IN ALTINDAKI 3 VEYA 5 IN TÃœM KATLARININ TOPLAMINI BULUN.
 public class problem1 {
 
 	public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class problem1 {
 		      sum+=i;}
 		
 		//sum=sum1+sum2;
-		//System.out.println("3 ün katlarýnýn toplamý: "+sum1+"\n5 in katlarýnýn toplamý:  "+sum2+"\n3 ve 5 in katlarýnýn toplamý: "+sum);
+		//System.out.println("3 Ã¼n katlarÃ½nÃ½n toplamÃ½: "+sum1+"\n5 in katlarÃ½nÃ½n toplamÃ½:  "+sum2+"\n3 ve 5 in katlarÃ½nÃ½n toplamÃ½: "+sum);
 		 System.out.println(sum);
 	}		
 				
